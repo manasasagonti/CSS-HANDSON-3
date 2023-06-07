@@ -45,6 +45,7 @@ body{
 img{
     width: 170px;
     height: 150px;
+    border: 2px solid black;
 }
 .child2{
     height: 250px;
